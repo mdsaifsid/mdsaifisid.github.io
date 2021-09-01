@@ -35,10 +35,11 @@ h1 {
 }
 
 .profile-picture {
-	align-items: right;
 	border-radius: 50%;
 	float: right;
-	border: 10%;
+	size: 10em;
+	max-width: 20%;
+	height:150px;
 }
 .nav-logo1,.nav-logo2 {
 	height: 50px;
